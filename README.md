@@ -2,12 +2,6 @@
 
 ---
 
-<!--
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=pgqr8yvlxxfkus0b97hsk5jwn&cover_image=true"/>
-</p>
--->
-
 <a href="#">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=SongHaoL&column=7&theme=onedark"/>
@@ -21,6 +15,7 @@
 </a>
 
 #### About Me
+---
 
 - 🇨🇳 &nbsp; I’m live in ShangHai China
 - 😎 &nbsp; I'm coding [ecode](https://www.google.com/)
@@ -28,6 +23,7 @@
 
 
 #### Tech Stack
+---
 
 - 🎯 &nbsp; JavaScript | TypeScript | Node |
 - 💻 &nbsp; React | Webpack | Rxjs | Vue |
