@@ -1,7 +1,24 @@
 ### Hi there 👋 , I'm lizonghao.
 
+---
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=SongHaoL&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE" alt="wanger's Github Stats">
+<!--
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=pgqr8yvlxxfkus0b97hsk5jwn&cover_image=true"/>
+</p>
+-->
+
+<a href="#">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=SongHaoL&column=7&theme=onedark"/>
+    </p>
+</a>
+
+<a align="center" href="#">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SongHaoL&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongHaoL&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
 
 #### About Me
 
